@@ -14,3 +14,5 @@ estamos documentando los primeros pasos en el control de verciones
   url
   ## Autor
   Saul briceno
+### Status
+finalizada en la vercion1.0
